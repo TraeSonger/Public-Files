@@ -1,0 +1,328 @@
+[
+  {
+    "background": "Aloe is used topically (applied to the skin) and orally. Topical use of aloe is promoted for acne, lichen planus (a very itchy rash on the skin or in the mouth), oral submucous fibrosis, burning mouth syndrome, burns, and radiation-induced skin toxicity. Oral use of aloe is promoted for weight loss, diabetes, hepatitis, and inflammatory bowel disease",
+    "origin": [
+      "africa",
+      "madascar",
+      "arabian peninsula"
+    ],
+    "products": [
+      "gel",
+      "latex"
+    ],
+    "treats": [
+      "skin conditions",
+      "hair loss",
+      "irritable bowel syndrome"
+    ],
+    "avoidIf": [
+      "pregnant",
+      "breast feeding"
+    ],
+    "drugReactions": [
+      "anticoagulants",
+      "diabetes medication",
+      "digoxin"
+    ],
+    "safeUse": "Topical use of aloe gel is generally well tolerated. However, there have been occasional reports of burning, itching, and eczema with topical use of aloe gel. Oral use of aloe latex can cause abdominal pain and cramps. Oral consumption of aloe leaf extracts (for as little as 3 weeks and as long as 5 years) has been related to cases of acute hepatitis."
+  },
+  {
+    "background": "Ashwagandha has been in use as a medicinal plant for thousands of years, especially in traditional Ayurvedic medicine.Currently, ashwagandha supplements are often promoted for stress and anxiety, sleep, male infertility, and athletic performance. These supplements typically contain ashwagandha root, leaf, or root/leaf extracts.Ashwagandha has also been promoted for COVID-19",
+    "origin": [
+      "india",
+      "africa",
+      "middle east"
+    ],
+    "products": [
+      "root",
+      "leaf"
+    ],
+    "treats": [
+      "stress",
+      "anxiety",
+      "male infertility",
+      "athletic performance"
+    ],
+    "avoidIf": [
+      "pregnant",
+      "breastfeeding",
+      "diagnosed with prostate cancer",
+      "have an upcoming surgery",
+      "autoimoune",
+      "thyroid disorder"
+    ],
+    "drugReactions": [
+      "high blood pressure medication",
+      "diabetes medication",
+      "immuno suppressants",
+      "sedatives",
+      "anticonvulsants",
+      "thyroid hormone medications"
+    ],
+    "safeUse": "Ashwagandha may be safe when taken in the short term (up to 3 months). There is not enough information to allow conclusions about its long-term safety to be reached.In some individuals, ashwagandha preparations may cause drowsiness, stomach upset, diarrhea, and vomiting.Although it is rare, there have been a number of cases that link liver injury to ashwagandha supplements."
+  },
+  {
+    "background": "Asian ginseng taken orally is promoted for increasing resistance to environmental stress and as a general tonic to improve well-being. Asian ginseng is also promoted as a dietary supplement for a variety of other reasons—to improve physical stamina, concentration, and memory; stimulate immune function; slow the aging process; and relieve various other health problems, such as respiratory and cardiovascular disorders, depression, anxiety, and menopausal hot flashes. Topical use (applied to the skin) of Asian ginseng as part of a multi-ingredient preparation is promoted for premature ejaculation.",
+    "origin": [
+      "china",
+      "korea",
+      "far-eastern siberia"
+    ],
+    "products": [
+      "root"
+    ],
+    "treats": [
+      "environmental stress",
+      "low stamina",
+      "ADHD",
+      "forget fulness",
+      "depression",
+      "anxiety",
+      "menopausal hot flashes"
+    ],
+    "avoidIf": [
+      "pregnant",
+      "breastfeeding"
+    ],
+    "drugReactions": [
+      "calcium channel blockers",
+      "high blood pressure medications",
+      "statin medications",
+      "antidepressants"
+    ],
+    "safeUse": "Short-term oral use (up to 6 months) of Asian ginseng in recommended amounts appears to be safe for most people. However, questions have been raised about its long-term safety, and some experts recommend against its use by infants, children, and women who are pregnant or breastfeeding.When used short-term as part of a specific multi-ingredient topical skin application, Asian ginseng is likely safe. Safety after prolonged repetitive topical use has not been determined."
+  },
+  {
+    "background": "The acai fruit has long been an important food source for indigenous peoples of the Amazon region.Acai products have become popular in the United States, where they have been promoted for weight-loss and anti-aging purposes. The Federal Trade Commission has taken action against companies that marketed acai weight-loss products in allegedly deceptive ways.",
+    "origin": [
+      "central america",
+      "south america"
+    ],
+    "products": [
+      "fruit"
+    ],
+    "treats": [
+      "weight management",
+      "aging"
+    ],
+    "drugReactions": [],
+    "avoidIf": [
+      "have an upcoming MRI"
+    ],
+    "safeUse": "Acai pulp appears to be safe when consumed in the amounts commonly used in foods; however, drinking unprocessed acai juice has been linked to an illness called American trypanosomiasis (also known as Chagas disease)."
+  },
+  {
+    "background": "Bilberry has been used for medicinal purposes since the Middle Ages. The berries and leaves are the parts of the plant that are used. Historically, bilberry has been used for a variety of conditions, including diarrhea, inflammation of the mouth, urinary problems, and diabetes. It’s also been used traditionally to prevent scurvy, due to its high vitamin C content. During World War II, British pilots ate bilberry jam, thinking it would improve their night vision.",
+    "origin": [
+      "europe",
+      "asia",
+      "northern united states",
+      "canada"
+    ],
+    "products": [
+      "berries",
+      "leaves"
+    ],
+    "treats": [
+      "diarrehea",
+      "inflamation of the mouth",
+      "urinary problems",
+      "daibetes",
+      "nightvision",
+      "cataracts",
+      "varicoseveins",
+      "atherosclerosis"
+    ],
+    "drugReactions": [
+      "cancer drug(Tarceval)",
+      "diabetes medications",
+      "anticoagulants"
+    ],
+    "avoidIf": [],
+    "safeUse": "Bilberry fruit is considered safe when consumed in amounts typically found in foods, or as an extract for 6 months to a year. Bilberry leaves may be unsafe when taken orally (by mouth) in high doses or for long periods of time."
+  },
+  {
+    "background": "Bitter orange has been used in traditional Chinese medicine for indigestion, nausea, and constipation. Today, various bitter orange products are promoted for heartburn, nasal congestion, weight loss, appetite stimulation or suppression, and athletic performance. Bitter orange is also applied to the skin for pain, bruises, fungal infections, and bedsores. Bitter orange is used in cooking and for adding flavor to beer and spirits.",
+    "origin": [
+      "eastern africa",
+      "arabian peninsula",
+      "syria",
+      "southeast asia"
+    ],
+    "products": [
+      "fruit"
+    ],
+    "treats": [
+      "indigestion",
+      "nausea",
+      "constipation",
+      "heartburn",
+      "nasal congestion",
+      "weight management",
+      "eating disorders",
+      "atheletic performance"
+    ],
+    "drugReactions": [],
+    "avoidIf": [
+      "NCAA athelete(banned as a stimulant)"
+    ],
+    "safeUse": "Bitter orange is likely safe when used orally in amounts commonly found in foods."
+  },
+  {
+    "background": "Americans traditionally used black cohosh for a variety of ailments and introduced it to European colonists. Currently, black cohosh is promoted as a dietary supplement for hot flashes and other menopausal symptoms. It’s also been promoted for other conditions, including menstrual cramps and premenstrual syndrome, and to induce labor.",
+    "origin": [
+      "north america"
+    ],
+    "products": [
+      "root"
+    ],
+    "treats": [
+      "menopausal hot flashes",
+      "menstrual cramps",
+      "premenstrual syndrome",
+      "labor"
+    ],
+    "avoidIf": [
+      "blue cohosh"
+    ],
+    "drugReactions": [
+      "statin medicines"
+    ],
+    "safeUse": "In clinical trials, people have taken black cohosh for as long as 12 months with no serious harmful effects."
+  },
+  {
+    "background": "Bromelain is promoted as a dietary supplement for reducing pain and swelling, especially of the nose and sinuses, gums, and other body parts after surgery or injury. It is also promoted for osteoarthritis, cancer, digestive problems, and muscle soreness. Topical bromelain is promoted for burns.",
+    "origin": [
+      "central america",
+      "south america"
+    ],
+    "products": [
+      "fruit",
+      "stems"
+    ],
+    "treats": [
+      "burns",
+      "swolen gums",
+      "osteoarthritis",
+      "cancer",
+      "digestive problems",
+      "muscle soreness"
+    ],
+    "avoidIf": [
+      "alergic to pineapples"
+    ],
+    "drugReactions": [
+      "antibiotic amoxicillin"
+    ],
+    "safeUse": "Few side effects of bromelain have been reported in studies. The most commonly reported side effects have been stomach upset and diarrhea."
+  },
+  {
+    "background": "Use of cat’s claw dates back 2,000 years. Indigenous people of South and Central America used it to ward off disease. Today, cat’s claw is promoted as a dietary supplement for a variety of health conditions, including viral infections (such as herpes, human papilloma virus, and HIV), Alzheimer’s disease, cancer, arthritis, diverticulitis, peptic ulcers, colitis, gastritis, hemorrhoids, parasites, and leaky bowel syndrome.",
+    "origin": [
+      "central america",
+      "south america"
+    ],
+    "products": [
+      "woody vine"
+    ],
+    "treats": [
+      "viral infections",
+      "alzheimer’s disease",
+      "cancer",
+      "arthritis",
+      "diverticulitis",
+      "peptic ulcers",
+      "colitis",
+      "gastritis",
+      "hemorrhoids",
+      "parasites",
+      "leaky bowel syndrome"
+    ],
+    "avoidIf": [
+      "autoimmune"
+    ],
+    "drugReactions": [
+      "protease inhibitors",
+      "blood pressure medications",
+      "digoxin"
+    ],
+    "safeUse": "Cat’s claw appears to be safe when used orally for short periods of time. However, it can cause headache, dizziness, and vomiting in some people."
+  },
+  {
+    "background": "Chamomile was described in ancient medical writings and was an important medicinal herb in ancient Egypt, Greece, and Rome. Today, chamomile is promoted for sleeplessness, anxiety, and gastrointestinal conditions such as upset stomach, gas, and diarrhea. It is also used topically for skin conditions and for mouth sores resulting from cancer treatment.",
+    "origin": [
+      "ancient egypt",
+      "greece",
+      "rome"
+    ],
+    "products": [
+      "flower"
+    ],
+    "treats": [
+      "sleeplessness",
+      "anxiety",
+      "cancer",
+      "arthritis",
+      "upset stomach",
+      "gas",
+      "diarrhea",
+      "skin conditions",
+      "mouth sores as a result of cancer treatment"
+    ],
+    "avoidIf": [
+      "allergic to chamomile"
+    ],
+    "drugReactions": [
+      "cyclosporine",
+      "warfarin"
+    ],
+    "safeUse": "Chamomile is likely safe when used in amounts commonly found in teas. It might be safe when used orally for medicinal purposes over the short term. The long-term safety of using chamomile on the skin for medicinal purposes is unknown."
+  },
+  {
+    "background": "Native Americans made poultices from the evening primrose plant for bruises and wounds and used its stem and leaf juices as topical remedies for skin inflammations. Today, evening primrose oil dietary supplements are promoted for atopic dermatitis (a type of eczema), rheumatoid arthritis, premenstrual syndrome (PMS), breast pain, menopause symptoms, and other conditions. Evening primrose oil may also be included in products that are applied to the skin.",
+    "origin": [
+      "north america",
+      "south america"
+    ],
+    "products": [
+      "flower"
+    ],
+    "treats": [
+      "eczema",
+      "rheumatoid arthritis",
+      "premenstrual syndrome",
+      "breast pain",
+      "menopause symptoms",
+      "skin conditions"
+    ],
+    "drugReactions": [
+      "lopinavir"
+    ],
+    "avoidIf": [],
+    "safeUse": "Evening primrose oil is probably safe for most adults. Less is known about its safety for children. Evening primrose oil may be safe for use during pregnancy and while breastfeeding, but the evidence is not conclusive."
+  },
+  {
+    "background": "In North Africa, Asia, and southern Europe, fenugreek was traditionally used for diabetes and to increase milk supply in women who were breastfeeding. Today, fenugreek is promoted as a dietary supplement for diabetes, menstrual cramps, and other conditions and to stimulate milk production during breastfeeding.",
+    "origin": [
+      "mediterranean region",
+      "southern europe",
+      "western asia"
+    ],
+    "productsId": [
+      "seeds"
+    ],
+    "treats": [
+      "diabetes",
+      "menstrual cramps",
+      "low milk production",
+      "blood sugar levels"
+    ],
+    "drugReactions": [],
+    "avoidIf": [
+      "pregnant ",
+      "child",
+      "alergic to fenugreek"
+    ],
+    "safeUse": "Fenugreek is believed to be safe in the amounts commonly found in foods. Its safety in larger doses is uncertain. It should not be used by children as a supplement. Potential side effects of fenugreek include diarrhea, nausea, and other digestive tract symptoms and rarely, dizziness and headaches. Large doses may cause a harmful drop in blood sugar. Fenugreek can cause allergic reactions in some people. Cases of liver toxicity have been reported in people taking fenugreek alone or in combination with other herbs."
+  }
+]
